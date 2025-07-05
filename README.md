@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+### 🎵 My Vibe Right Now
 
-###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ffjgsk3gobdwccjs5fq4cfyqjq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://img.shields.io/badge/Now%20Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7cEbOdPHth4Ca2Qejq55if)
