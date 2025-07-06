@@ -10,21 +10,23 @@
 > 🔊 Click the banner above to listen to **"Dashavatar"**; by Narci, Ezik & Bhuvan Sharma —  
 > it will **auto-play instantly** on a custom Spotify-style page 🎶
 
+
 # 💫 About Me:
-```javascript
-👨‍💻 Code ✦ Create ✦ Commit ⚡  
-💡 Think {Logic} → Build [Dreams]  
-📍 Based in 🌍 | 🚀 #DevLife  
-🔗 github.com/oracledc67
-
-👾 function aboutMe() {
-  return {
-    username: "oracledc67",
-    passion: "⚙️ Crafting Logic",
-    motto: "Keep pushing > console.log('limits')",
-    location: "🌐 Remote",
-    status: "✨ Always in dev mode"
-  };
-}"
-}```
-
+/******************************************************
+ *                                                    *
+ *  👨‍💻 Code ✦ Create ✦ Commit ⚡                      *
+ *  💡 Think {Logic} → Build [Dreams]                 *
+ *  📍 Based in 🌍 | 🚀 #DevLife                      *
+ *  🔗 github.com/oracledc67                          *
+ *                                                    *
+ *  function aboutMe() {                              *
+ *    return {                                        *
+ *      username: "oracledc67",                       *
+ *      passion: "⚙️ Crafting Logic",                 *
+ *      motto: "Keep pushing > console.log('limits')",*
+ *      location: "🌐 Remote",                        *
+ *      status: "✨ Always in dev mode"               *
+ *    };                                              *
+ *  }                                                 *
+ *                                                    *
+ ******************************************************/
