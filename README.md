@@ -12,21 +12,19 @@
 
 
 # 💫 About Me:
-/******************************************************
- *                                                    *
- *  👨‍💻 Code ✦ Create ✦ Commit ⚡                      *
- *  💡 Think {Logic} → Build [Dreams]                 *
- *  📍 Based in 🌍 | 🚀 #DevLife                      *
- *  🔗 github.com/oracledc67                          *
- *                                                    *
- *  function aboutMe() {                              *
- *    return {                                        *
- *      username: "oracledc67",                       *
- *      passion: "⚙️ Crafting Logic",                 *
- *      motto: "Keep pushing > console.log('limits')",*
- *      location: "🌐 Remote",                        *
- *      status: "✨ Always in dev mode"               *
- *    };                                              *
- *  }                                                 *
- *                                                    *
- ******************************************************/
+```javascript
+👨‍💻 Code ✦ Create ✦ Commit ⚡  
+💡 Think {Logic} → Build [Dreams]  
+📍 Based in 🌍 | 🚀 #DevLife  
+🔗 github.com/oracledc67
+
+👾 function aboutMe() {
+  return {
+    username: "oracledc67",
+    passion: "⚙️ Crafting Logic",
+    motto: "Keep pushing > console.log('limits')",
+    location: "🌐 Remote",
+    status: "✨ Always in dev mode"
+  };
+}"
+}```
