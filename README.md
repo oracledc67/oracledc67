@@ -32,7 +32,7 @@
 </p>
 
 <!-- Bio Section -->
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWZjN3NieGxzdXU4dmt2cjF4N3l1OTFjN2Z6cXljaDhlenVrMzkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/11MrR6AhL5tbrBjy0C/giphy.gif" width="230">
 <p>
   <em>
     Software Engineer at <a href="http://www.unb.br">University of Brasilia</a>
