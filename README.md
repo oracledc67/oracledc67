@@ -10,6 +10,8 @@
 > 🔊 Click the banner above to listen to **"Dashavatar"**; by Narci, Ezik & Bhuvan Sharma —  
 > it will **auto-play instantly** on a custom Spotify-style page 🎶
 
+## GITHUB REVIEW 🐱
+![3D Profile](https://raw.githubusercontent.com/SXP-Simon/SXP-Simon/main/assets/profile-3d/profile-night-rainbow.svg)
 
 # 💫 About Me:
 ```javascript
