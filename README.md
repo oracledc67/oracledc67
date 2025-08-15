@@ -53,10 +53,11 @@
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWZjN3NieGxzdXU4dmt2cjF4N3l1OTFjN2Z6cXljaDhlenVrMzkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/11MrR6AhL5tbrBjy0C/giphy.gif" width="230">
 <p>
   <em>
-    Software Engineer at <a href="http://www.unb.br">University of Brasilia</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
-    Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    🛠 Building cool things in code & breaking boring rules.<br>
+    ⚡ Into crypto, automation & all things open-source.<br>
+    🤝 Partner(s) in chaos: 
+    <a href="https://github.com/adityapatil343">@adityapatil343</a> & 
+    <a href="https://github.com/satyamjhablockdev">@satyamjhablockdev</a>
   </em>
 </p>
 
