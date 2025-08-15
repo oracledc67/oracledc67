@@ -104,7 +104,6 @@
 }
 ```
 > ORACLE DC Terminal in the Zone
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oracledc67/oracledc67/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oracledc67/oracledc67/output/pacman-contribution-graph.svg">
